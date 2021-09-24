@@ -1,0 +1,35 @@
+
+body{
+    background-color:#fcffe5;
+    font-family: 'Scheherazade New', serif;
+}
+h1{
+    text-align: center;
+    color: #4e3b67;
+}
+h3{
+    color: #c796b6;
+    text-align: center;
+}
+h4 {
+    color: #c796b6;
+}
+p{
+    color: #4e3b67;
+    text-align: center;
+}
+ol{
+    color: #49572e;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+ul{
+    list-style-type:none;
+    color: #49572e;
+}
